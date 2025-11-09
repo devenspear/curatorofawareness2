@@ -49,9 +49,9 @@ export function SimulationHero() {
             }}
             className={`${designSystem.typography.bodyLarge} mb-8 text-muted-foreground max-w-3xl mx-auto leading-relaxed`}
           >
-            For millennia, philosophers, mystics, and now physicists have questioned the nature of reality. 
-            From Plato's Cave to quantum mechanics, from ancient wisdom to cutting-edge science—explore 
-            the profound possibility that consciousness itself may be the fundamental reality, and our 
+            For millennia, philosophers, mystics, and now physicists have questioned the nature of reality.
+            From Plato&apos;s Cave to quantum mechanics, from ancient wisdom to cutting-edge science—explore
+            the profound possibility that consciousness itself may be the fundamental reality, and our
             perceived world a carefully constructed illusion.
           </motion.p>
 

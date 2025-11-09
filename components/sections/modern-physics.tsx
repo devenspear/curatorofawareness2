@@ -81,9 +81,9 @@ export function ModernPhysics() {
             Modern Science Meets Ancient Questions
           </h2>
           <p className={`${designSystem.typography.bodyLarge} text-muted-foreground max-w-3xl mx-auto`}>
-            Today's physicists, cognitive scientists, and philosophers are discovering that 
-            cutting-edge science may be pointing toward the same insights ancient sages described 
-            millennia ago. The evidence is mounting—and it's extraordinary.
+            Today&apos;s physicists, cognitive scientists, and philosophers are discovering that
+            cutting-edge science may be pointing toward the same insights ancient sages described
+            millennia ago. The evidence is mounting—and it&apos;s extraordinary.
           </p>
         </motion.div>
 
@@ -110,7 +110,7 @@ export function ModernPhysics() {
                     </CardHeader>
                     <CardContent>
                       <p className="text-foreground text-sm leading-relaxed mb-3">{researcher.contribution}</p>
-                      <p className="text-primary text-xs italic">"{researcher.keyWork}"</p>
+                      <p className="text-primary text-xs italic">&ldquo;{researcher.keyWork}&rdquo;</p>
                     </CardContent>
                   </Card>
                 </motion.div>

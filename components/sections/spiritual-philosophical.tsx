@@ -99,7 +99,7 @@ export function SpiritualPhilosophical() {
             </CardHeader>
             <CardContent>
               <p className="text-foreground text-lg leading-relaxed mb-4">
-                Despite different languages, cultures, and epochs, the world's mystical traditions
+                Despite different languages, cultures, and epochs, the world&apos;s mystical traditions
                 converge on a remarkable insight: <em className="text-primary">reality as we experience it is not ultimate reality.</em>
               </p>
               <p className="text-foreground text-lg leading-relaxed">

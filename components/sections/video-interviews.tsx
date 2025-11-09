@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { designSystem } from "@/lib/design-system";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Play, Youtube } from "lucide-react";
+import { Youtube } from "lucide-react";
 
 interface Video {
   title: string;
@@ -155,7 +155,7 @@ export function VideoInterviews() {
                 {category.category}
               </h3>
               <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {category.videos.map((video, videoIndex) => (
+                {category.videos.map((video) => (
                   <Card
                     key={video.youtubeId}
                     className="bg-card/50 border-border backdrop-blur-sm hover:border-primary/40 transition-all overflow-hidden group"

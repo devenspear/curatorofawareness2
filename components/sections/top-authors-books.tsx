@@ -5,6 +5,7 @@ import { designSystem } from "@/lib/design-system";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { BookOpen, ExternalLink } from "lucide-react";
+import Image from "next/image";
 
 interface Book {
   title: string;
@@ -201,10 +202,12 @@ export function TopAuthorsBooks() {
               <Card className="bg-card/50 border-border backdrop-blur-sm hover:border-primary/40 transition-all h-full">
                 <CardHeader className="pb-3">
                   <div className="flex items-start gap-4">
-                    <img
+                    <Image
                       src={author.photo}
                       alt={author.name}
-                      className="w-[84px] h-[84px] rounded-full object-cover border-2 border-primary/20"
+                      width={84}
+                      height={84}
+                      className="rounded-full object-cover border-2 border-primary/20"
                     />
                     <div className="flex-1 min-w-0">
                       <CardTitle className="text-foreground text-lg mb-1">{author.name}</CardTitle>

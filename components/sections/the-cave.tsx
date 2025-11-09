@@ -57,7 +57,7 @@ export function TheCave() {
                 </div>
                 <CardTitle className="text-foreground">The Awakening</CardTitle>
                 <CardDescription className="text-muted-foreground">
-                  One prisoner breaks free, turns toward the fire, and begins the painful journey toward the cave's exit.
+                  One prisoner breaks free, turns toward the fire, and begins the painful journey toward the cave&apos;s exit.
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -110,7 +110,7 @@ export function TheCave() {
               </p>
               <p className="text-foreground text-lg leading-relaxed">
                 From quantum mechanics revealing that observation affects reality, to the mathematical
-                precision of our universe's constants, to the possibility that advanced civilizations
+                precision of our universe&apos;s constants, to the possibility that advanced civilizations
                 could create ancestor simulations—the question persists: <em className="text-primary">Are we living in a dream?</em>
               </p>
             </CardContent>

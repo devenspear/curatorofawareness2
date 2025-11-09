@@ -22,3 +22,5 @@
  ✓ Compiled in 35ms
  ✓ Compiled in 180ms
  ✓ Compiled in 32ms
+ ✓ Compiled in 173ms
+ ⚠ Found a change in next.config.ts. Restarting the server to apply the changes...
