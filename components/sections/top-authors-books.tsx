@@ -202,13 +202,15 @@ export function TopAuthorsBooks() {
               <Card className="bg-card/50 border-border backdrop-blur-sm hover:border-primary/40 transition-all h-full">
                 <CardHeader className="pb-3">
                   <div className="flex items-start gap-4">
-                    <Image
-                      src={author.photo}
-                      alt={author.name}
-                      width={84}
-                      height={84}
-                      className="rounded-full object-cover border-2 border-primary/20"
-                    />
+                    <div className="w-[84px] h-[84px] rounded-full overflow-hidden border-2 border-primary/20 flex-shrink-0">
+                      <Image
+                        src={author.photo}
+                        alt={author.name}
+                        width={84}
+                        height={84}
+                        className="w-full h-full object-cover"
+                      />
+                    </div>
                     <div className="flex-1 min-w-0">
                       <CardTitle className="text-foreground text-lg mb-1">{author.name}</CardTitle>
                       <p className="text-xs text-muted-foreground mb-1">{author.title}</p>
