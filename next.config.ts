@@ -39,6 +39,10 @@ const nextConfig: NextConfig = {
         protocol: 'https',
         hostname: 'eckharttolle.com',
       },
+      {
+        protocol: 'https',
+        hostname: 'images.squarespace-cdn.com',
+      },
     ],
   },
 };

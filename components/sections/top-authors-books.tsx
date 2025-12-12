@@ -159,7 +159,7 @@ const authors: Author[] = [
   {
     name: "Alan Watts",
     title: "Philosopher",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alan_Watts_UVM_15_June_1958.jpg",
+    photo: "https://images.squarespace-cdn.com/content/v1/665a1f132e67fe20cb75d316/db89a0e7-11a0-4720-8be6-69bc554db400/LETTERBOX_Alan+With+Mic.jpg",
     keyIdea: "Eastern wisdom for the West",
     books: [
       {
