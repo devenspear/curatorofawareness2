@@ -9,11 +9,35 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: 'https',
-        hostname: 'www.cogsci.uci.edu',
+        hostname: 'sites.socsci.uci.edu',
       },
       {
         protocol: 'https',
-        hostname: 'm.media-amazon.com',
+        hostname: 'nickbostrom.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'physics.mit.edu',
+      },
+      {
+        protocol: 'https',
+        hostname: 'webapp4.asu.edu',
+      },
+      {
+        protocol: 'https',
+        hostname: 'consc.net',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.essentiafoundation.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'robertlanza.com',
+      },
+      {
+        protocol: 'https',
+        hostname: 'eckharttolle.com',
       },
     ],
   },

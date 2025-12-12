@@ -25,7 +25,7 @@ const authors: Author[] = [
   {
     name: "Nick Bostrom",
     title: "Philosopher, Oxford",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nick_Bostrom%2C_Stanford_2006_%28square_crop%29.jpg/400px-Nick_Bostrom%2C_Stanford_2006_%28square_crop%29.jpg",
+    photo: "https://nickbostrom.com/img/press/nick-bostrom-01.jpg",
     keyIdea: "Simulation Argument pioneer",
     books: [
       {
@@ -43,7 +43,7 @@ const authors: Author[] = [
   {
     name: "Donald Hoffman",
     title: "Cognitive Scientist, UC Irvine",
-    photo: "https://www.cogsci.uci.edu/~ddhoff/don.jpg",
+    photo: "https://sites.socsci.uci.edu/~ddhoff/don.jpg",
     keyIdea: "Reality is an interface, not truth",
     books: [
       {
@@ -56,7 +56,7 @@ const authors: Author[] = [
   {
     name: "Max Tegmark",
     title: "Physicist, MIT",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Max_Tegmark.jpg/440px-Max_Tegmark.jpg",
+    photo: "https://physics.mit.edu/wp-content/uploads/2021/01/tegmark_max-aspect-ratio-420-334-420x334-c-default.jpg",
     keyIdea: "Mathematical Universe Hypothesis",
     books: [
       {
@@ -73,8 +73,8 @@ const authors: Author[] = [
   },
   {
     name: "Rizwan Virk",
-    title: "Computer Scientist, MIT",
-    photo: "https://m.media-amazon.com/images/S/amzn-author-media-prod/g6tmu4gcrv36c07pi5n8bjjs2g._SX450_.jpg",
+    title: "Computer Scientist, ASU/MIT",
+    photo: "https://webapp4.asu.edu/photo-ws/directory_photo/rvirk1?size=medium",
     keyIdea: "Video games meet quantum physics",
     books: [
       {
@@ -92,7 +92,7 @@ const authors: Author[] = [
   {
     name: "David Chalmers",
     title: "Philosopher, NYU",
-    photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/David_Chalmers_TASP_2010.jpg/440px-David_Chalmers_TASP_2010.jpg",
+    photo: "https://consc.net/djc1.jpg",
     keyIdea: "Hard problem of consciousness",
     books: [
       {
@@ -103,14 +103,14 @@ const authors: Author[] = [
       {
         title: "Reality+",
         year: "2022",
-        amazonUrl: "https://www.amazon.com/dp/039363580X",
+        amazonUrl: "https://www.amazon.com/dp/0393635805",
       },
     ],
   },
   {
     name: "Bernardo Kastrup",
     title: "Philosopher",
-    photo: "https://m.media-amazon.com/images/S/amzn-author-media-prod/lhfcj5tbkqnr8qr96p8bim70l8._SX450_.jpg",
+    photo: "https://www.essentiafoundation.org/wp-content/uploads/Bernardo-Kastrup-220x220.jpg",
     keyIdea: "Consciousness is fundamental",
     books: [
       {
@@ -128,7 +128,7 @@ const authors: Author[] = [
   {
     name: "Robert Lanza",
     title: "Scientist",
-    photo: "https://m.media-amazon.com/images/S/amzn-author-media-prod/7gp9a67s2s3a2e18dh3j19odfr._SX450_.jpg",
+    photo: "https://robertlanza.com/wp-content/uploads/2022/12/1200px-Robert_Lanza_in_laboratory_01-1.png",
     keyIdea: "Life creates the universe",
     books: [
       {
@@ -141,7 +141,7 @@ const authors: Author[] = [
   {
     name: "Eckhart Tolle",
     title: "Spiritual Teacher",
-    photo: "https://m.media-amazon.com/images/S/amzn-author-media-prod/fq9uhtk7kgm9r1vp53bsgffj6i._SX450_.jpg",
+    photo: "https://eckharttolle.com/wp-content/uploads/2023/05/EckhartTolle3.png",
     keyIdea: "Present-moment awareness",
     books: [
       {
@@ -159,7 +159,7 @@ const authors: Author[] = [
   {
     name: "Alan Watts",
     title: "Philosopher",
-    photo: "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Alan_Watts.png/440px-Alan_Watts.png",
+    photo: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alan_Watts_UVM_15_June_1958.jpg",
     keyIdea: "Eastern wisdom for the West",
     books: [
       {
